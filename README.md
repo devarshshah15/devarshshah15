@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Devarsh Shah. I am currently pursuing Master's in Computer Science from North Carolina State University.
+You can find more about my projects and coursework [here](https://www.linkedin.com/in/devarshshah15/).
 
 <!--
 **devarshshah15/devarshshah15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Devarsh's github stats](https://github-readme-stats.vercel.app/api?username=devarshshah15&hide=contribs,stars)](https://github.com/devarshshah15/)
