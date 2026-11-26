@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Devarsh Shah and currently pursuing Master's in Computer Science from North Carolina State University. My past stints include being software engineering intern at Redhat where I worked in the Migration Team for developing a kubernetes operator for OCP platform. I have worked extensively at the intersection of domains like Software Engineering, Machine Learning and Natural Language Processing. In my free time, I like to play chess, read about social economics and meet new people 😊. You can find more about my projects and coursework [here](https://www.linkedin.com/in/devarshshah15/). Feel free to connect if you've something interesting to share related to any of the above.
+My name is Devarsh Shah and currently pursuing Master's in Computer Science from North Carolina State University. My past stints include being software engineering intern at Redhat where I worked in the Migration Team for developing a kubernetes operator for OCP platform. I have worked extensively at the intersection of domains like Software Engineering, Machine Learning and Natural Language Processing. In my free time, I like to play chess, read about social economics and meet new people 😊. Feel free to connect if you've something interesting to share related to any of the above.
 
 
 ### Technologies:
